@@ -1,0 +1,28 @@
+# Байт-код Python и кэш компилятора
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Кэш тестов и инструментов анализа (pytest, coverage, ruff)
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Виртуальные окружения Python
+.venv/
+venv/
+ENV/
+env/
+
+# Среды разработки и редакторы
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Операционная система
+.DS_Store
+Thumbs.db
+
